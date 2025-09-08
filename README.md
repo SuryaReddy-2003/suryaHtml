@@ -1,3 +1,3 @@
 # suryaHtml
 
-<a href="https://suryareddy-2003.github.io/suryaHtml/"> click here</a>
+<a href="https://suryareddy-2003.github.io/suryaHtml/" target="/blank"> click here</a>
